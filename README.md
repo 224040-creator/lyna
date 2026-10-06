@@ -1,2 +1,2 @@
 # lyna
-lyna mabok
+SSE3308
